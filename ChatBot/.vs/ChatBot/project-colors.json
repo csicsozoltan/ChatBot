@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b603090-1c15-41f5-8eb3-5ecaf4c705bc": {
+      "ProjectGuid": "9b603090-1c15-41f5-8eb3-5ecaf4c705bc",
+      "DisplayName": "ChatBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
